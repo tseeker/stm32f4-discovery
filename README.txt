@@ -12,3 +12,4 @@ Ok, anyways:
 	01-RotatingBlinky/	Make all of them sexy LEDs flash.
 	02-ButtonBlinky/	Same as above with variable speed
 	03-EXTIBlinky/		Same as above, using interrupts
+	04-PokeScreen/		Same as above, controlled by poking a screen
