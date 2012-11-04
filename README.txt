@@ -14,3 +14,5 @@ Ok, anyways:
 	03-EXTIBlinky/		Same as above, using interrupts
 	04-PokeScreen/		Same as above, controlled by poking a screen
 	05-PWMLeds/		Flashing LEDs using PWM+TIM4
+	06-TouchScreen/		Reading data from the touchscreen
+	07-BitBangDisplay/	Bit-banging-based display access
