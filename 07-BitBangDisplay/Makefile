@@ -1,6 +1,7 @@
 PROJECT = BitBangDisplay
 PRJ_C_SRC = main.c \
-	    ssd1963.c
+	    ssd1963.c \
+	    xpt2046.c
 
 ##############################################################################
 # Build global options
