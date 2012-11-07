@@ -16,3 +16,4 @@ Ok, anyways:
 	05-PWMLeds/		Flashing LEDs using PWM+TIM4
 	06-TouchScreen/		Reading data from the touchscreen
 	07-BitBangDisplay/	Bit-banging-based display access
+	08-Serial/		Serial communications
